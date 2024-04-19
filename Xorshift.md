@@ -124,3 +124,6 @@ $$
 特に, $T$ の多項式が特異行列である場合, $T$ の特性多項式を通じてゼロ行列に帰着しなければならない. したがって, $\beta T, \beta T^2, \beta T^3, \ldots$ の周期が $k = 2^{n}-1$ でなければならず, 非ゼロの $\beta$ と $j<k$ に対して $\beta T^{j} = \beta$ が成り立つとき, $T^{j} + I$ が特異行列であることを意味する.
 
 aaaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaa
+aaaaaaa
